@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/CourseraScene.unity
+    guid: 632e1d152afd1494fbef8ccb9736c45d
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b405d69e6104249bebb8adbd78657840,
+      type: 2}

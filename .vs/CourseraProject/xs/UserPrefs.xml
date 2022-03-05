@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{755488E1-7883-C0C8-8492-84339FDE3596}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ARLessons.cs">
+    <Files>
+      <File FileName="Assets/ARLessons.cs" Line="137" Column="66" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7255b6a8-1fe3-48f9-a4b6-8a04f7077c2e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
